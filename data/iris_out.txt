@@ -1,0 +1,4 @@
+"min_sepal_length"	4.3
+"max_petal_width"	2.5
+"avg_setosa_sepal_width"	1.1393333333333335
+"avg_sepal_petal_length_diff"	0.9040000000000006

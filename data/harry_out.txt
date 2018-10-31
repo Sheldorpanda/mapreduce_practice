@@ -1,0 +1,3 @@
+"lopsided"	2
+"magical"	30
+"soaring"	5
